@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=41
+
+rcs-menu.vim is a plugin which allows you to easily interace with the command line versions of rcs, ci, co, rlog and rcsdiff.  If you are running a GUI version of Vim, you will get a new menu in the menu bar for RCS.  This plugin can also be found at http://lanzarotta.tripod.com/vim.html.
